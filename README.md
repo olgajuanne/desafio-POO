@@ -1,14 +1,15 @@
 # Bootcamp Usando Orientação a Objetos em Java
 
 ## Descrição do Projeto
-Desmistificar a Programação Orientada a Objetos (POO) com Java e pratricar esse conceito fundamental na construção do desafio. Para isso, os pilares da O.O. são devidamente formalizados: Abstração, Encapsulamento, Herança e Polimorfismo.
+Desmistificar a Programação Orientada a Objetos (POO) com Java e praticar este conceito fundamental na construção do desafio. Para isso, os pilares da O.O. são devidamente formalizados: Abstração, Encapsulamento, Herança e Polimorfismo.
 
 ## Status do Projeto
-🚧 Projeto em construção 🚧
+🏛️ Concluído. 
 
 ## Funcionalidades do projeto
 
-Abstraindo um Bootcamp Usando Orientação a Objetos em Java
+Abstraindo um Bootcamp Usando Orientação a Objetos em Java.
+O programa mostra `Devs` escritos em um `Bootcamp` com `Cursos`,`Mentoria` e `Projeto`.  
 
 ## Tecnologias utilizadas
 

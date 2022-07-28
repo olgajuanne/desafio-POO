@@ -15,7 +15,7 @@ public class Mentoria extends Conteudo {
     
   }
 
-  public LocalDate gDate() {
+  public LocalDate getDate() {
       return data;
   }
 
@@ -26,10 +26,10 @@ public class Mentoria extends Conteudo {
   @Override
     public String toString() {
         return "Mentoria: " +
-                "titulo =' " + getTitulo() + '\'' +
-                ", descricao =' " + getDescricao() + '\'' +
-                ", data = " + data + " " +
-                 '|';
+                "Titulo =' " + getTitulo() + '\'' +
+                ", Descricão =' " + getDescricao() + '\'' +
+                ", Data = " + data + " " +
+                 '|' + "\n";
     }
 
   
